@@ -1,4 +1,4 @@
-<a href="https://github.com/CDU-data-science-team" target="_blank"><img alt="love"  src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/></a>
+<a href="https://cdu-data-science-team.github.io/team-blog/#category:Open_source" target="_blank"><img alt="love"  src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/></a>
 <a href="https://cdu-data-science-team.github.io/team-blog/" target="_blank"><img alt="Blog" src=https://img.shields.io/badge/blog-cdu--data--science--team-yellowgreen></a> 
 <a href="https://cdu-data-science-team.github.io/understanding-your-data/" target="_blank"><img alt="Understanding Your Data" src=https://img.shields.io/badge/meetup-understanding--your--data-green></a> 
 <a href="https://cdu-data-science-team.github.io/project-showcase/" target="_blank"><img alt="Project Showcase" src=https://img.shields.io/badge/projects-projects--showcase-purple></a> 
@@ -12,9 +12,9 @@ href="https://twitter.com/DataScienceNott" target="_blank"><img alt="Twitter"
 src="https://img.shields.io/twitter/follow/DataScienceNott" /></a> <a 
 href="mailto:CDUDataScience@nottshc.nhs.uk" target="_blank"><img alt="Mail"
 src="https://img.shields.io/badge/-CDUDataScience@notthc.nhs.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:CDUDataScience@notthc.nhs.uk"/></a> <a 
-</a> 
-</p>
-
+</a>
+</p>  
+  
 <h2 align="center">Coding using</h2>
 <p align="center">
 <a href="https://cdu-data-science-team.github.io/team-blog/#category:SQL" target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
