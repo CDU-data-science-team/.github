@@ -17,9 +17,9 @@ src="https://img.shields.io/badge/-CDUDataScience@notthc.nhs.uk-c14438?style=fla
   
 <h2 align="center">Coding using</h2>
 <p align="center">
-<a href="https://cdu-data-science-team.github.io/team-blog/#category:SQL" target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
 <a href="https://cdu-data-science-team.github.io/team-blog/#category:RStudio" target="_blank"><img alt="R Studio" src="https://img.shields.io/badge/RStudio-%2312100E.svg?logo=rstudio&style=for-the-badge"/></a> 
 <a href="https://cdu-data-science-team.github.io/team-blog/#category:GitHub" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
+<a href="https://cdu-data-science-team.github.io/team-blog/#category:SQL" target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
 </p>
 </br>
 
