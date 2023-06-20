@@ -10,8 +10,8 @@
 <p align="center"><a 
 href="https://twitter.com/DataScienceNott" target="_blank"><img alt="Twitter" 
 src="https://img.shields.io/twitter/follow/DataScienceNott" /></a> <a 
-href="mailto:CDUDataScience@nottshc.nhs.uk" target="_blank"><img alt="Mail"
-src="https://img.shields.io/badge/-CDUDataScience@notthc.nhs.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:CDUDataScience@notthc.nhs.uk"/></a> <a 
+href="mailto:PHUDataScience@nottshc.nhs.uk" target="_blank"><img alt="Mail"
+src="https://img.shields.io/badge/-CDUDataScience@notthc.nhs.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:PHUDataScience@notthc.nhs.uk"/></a> <a 
 </a>
 </p>  
   
