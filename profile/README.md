@@ -5,16 +5,7 @@
 <a href="https://www.zotero.org/groups/2868168/nottshc_clinical_development_unit/collections/ACV3Y9JL" target="_blank"><img alt="Zotero" src=https://img.shields.io/badge/Zotero-useful--links-darkred>
 
 <br> 
-
-<h2 align="center">Find us</h2>
-<p align="center"><a 
-href="https://twitter.com/DataScienceNott" target="_blank"><img alt="Twitter" 
-src="https://img.shields.io/twitter/follow/DataScienceNott" /></a> <a 
-href="mailto:PHUDataScience@nottshc.nhs.uk" target="_blank"><img alt="Mail"
-src="https://img.shields.io/badge/-CDUDataScience@notthc.nhs.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:PHUDataScience@notthc.nhs.uk"/></a> <a 
-</a>
-</p>  
-  
+ 
 <h2 align="center">Coding using</h2>
 <p align="center">
 <a href="https://cdu-data-science-team.github.io/team-blog/#category:RStudio" target="_blank"><img alt="R Studio" src="https://img.shields.io/badge/RStudio-%2312100E.svg?logo=rstudio&style=for-the-badge"/></a> 
